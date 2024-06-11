@@ -8,7 +8,7 @@ const minecraftUsername = 'RiseBOTGPT';
 const minecraftVersion = '1.20.6';
 
 // ChatGPT API settings
-const chatGPTAPIKey = 'your_openai_api_key';
+const chatGPTAPIKey = 'sk-proj-0NQeqo0RBcgh99ALwQDtT3BlbkFJruaBDYWoWryp5b2g63A3';
 
 // Create Minecraft bot instance
 const bot = mineflayer.createBot({
