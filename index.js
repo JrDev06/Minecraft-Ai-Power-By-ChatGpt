@@ -2,10 +2,10 @@ const mineflayer = require('mineflayer');
 const axios = require('axios');
 
 // Minecraft bot settings
-const minecraftHost = 'your_minecraft_server_ip';
-const minecraftPort = 25565;
-const minecraftUsername = 'your_bot_username';
-const minecraftVersion = '1.16.4';
+const minecraftHost = 'RiseSMPMC.aternos.me';
+const minecraftPort = 46779;
+const minecraftUsername = 'RiseBOTGPT';
+const minecraftVersion = '1.20.6';
 
 // ChatGPT API settings
 const chatGPTAPIKey = 'your_openai_api_key';
