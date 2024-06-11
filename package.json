@@ -1,1 +1,13 @@
-
+{
+  "name": "minecraft-bot",
+  "version": "1.0.0",
+  "description": "A Minecraft bot that executes player requests using ChatGPT API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^3.14.0",
+    "axios": "^0.24.0"
+  }
+}
